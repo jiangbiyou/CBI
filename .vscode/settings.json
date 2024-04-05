@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.icc": "cpp",
+        "*.ihh": "cpp",
+        "new": "cpp",
+        "iosfwd": "cpp"
+    }
+}

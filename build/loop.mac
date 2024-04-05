@@ -1,0 +1,3 @@
+/B1/det/setCols {Clos} mm
+
+/control/loop run1.mac Rows 1 20

@@ -1,0 +1,3 @@
+/run/initialize
+
+/control/loop loop.mac Clos 1 55

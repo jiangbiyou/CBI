@@ -1,0 +1,8 @@
+/home/jiang/my_Geant4_proj/毕业设计/CBI/build/CMakeFiles/exampleB1.dir
+/home/jiang/my_Geant4_proj/毕业设计/CBI/build/CMakeFiles/B1.dir
+/home/jiang/my_Geant4_proj/毕业设计/CBI/build/CMakeFiles/edit_cache.dir
+/home/jiang/my_Geant4_proj/毕业设计/CBI/build/CMakeFiles/rebuild_cache.dir
+/home/jiang/my_Geant4_proj/毕业设计/CBI/build/CMakeFiles/list_install_components.dir
+/home/jiang/my_Geant4_proj/毕业设计/CBI/build/CMakeFiles/install.dir
+/home/jiang/my_Geant4_proj/毕业设计/CBI/build/CMakeFiles/install/local.dir
+/home/jiang/my_Geant4_proj/毕业设计/CBI/build/CMakeFiles/install/strip.dir
